@@ -8,7 +8,7 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.correvate.zip</groupId>
+	<groupId>com.pointclouds.zip</groupId>
 	<artifactId>remote-zipper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>remote-zipper</name>
@@ -34,6 +34,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>2.4.3</version>
 			</plugin>
 		</plugins>
 	</build>

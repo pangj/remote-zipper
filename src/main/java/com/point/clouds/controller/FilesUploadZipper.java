@@ -1,4 +1,4 @@
-package com.correvate.zip.controller;
+package com.point.clouds.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
